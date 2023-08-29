@@ -3,3 +3,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    background: white;
+}
+
+.font-alice {
+    font-family: Alice, sans-serif;
+}
