@@ -1,5 +1,7 @@
 <script>
     import "../app.css";
+    import '@fortawesome/fontawesome-free/css/all.css';
+    import '@fortawesome/fontawesome-free/js/all.js';
     import isotipo from "$lib/assets/logos/isotipo_oficial.png";
     import isotipoFdb from '$lib/assets/logos/isotipo_fdb_bg_black.png'
 </script>
